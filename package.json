@@ -1,0 +1,30 @@
+{
+  "name": "ng-compare-with",
+  "version": "0.0.1",
+  "description": "It is a simple function to use in foreign key fields, be more specific on select [compareWith], on angular 4 / Ionic 4 or greater than",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fabriciomsdev/ng-generic-compare-function-for-select.git"
+  },
+  "keywords": [
+    "Ng",
+    "Angular",
+    "Select",
+    "Tag",
+    "CompareWith",
+    "Angular",
+    "6",
+    "Ionic",
+    "4"
+  ],
+  "author": "Fabricio Magalhães Sena",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/fabriciomsdev/ng-generic-compare-function-for-select/issues"
+  },
+  "homepage": "https://github.com/fabriciomsdev/ng-generic-compare-function-for-select#readme"
+}

@@ -1,4 +1,4 @@
-export const compareFnForNgSelect = (modelData: any, selectListItemData: any): boolean => {
+export const genericNgCompareWith = (modelData, selectListItemData) => {
     modelData = modelData;
     selectListItemData = selectListItemData;
 
